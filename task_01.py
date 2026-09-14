@@ -1,4 +1,5 @@
 # задача 1
+
 def meters_to_centimeters ():
     meter = int(input("Введите метры, для перевода их в сантиметры:  "))
     centimeter = meter * 100
