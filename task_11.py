@@ -1,3 +1,5 @@
+# задача 11
+
 import random
 
 def find_guests_order(seats):
