@@ -1,4 +1,5 @@
 # задача 2
+
 def bytes_to_kilobytes ():
     bytes_value = float(input("Введите байты, для того чтобы их перевести в килобайты: "))
     k_bytes_value = bytes_value / 1024
