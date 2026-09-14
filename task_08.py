@@ -1,4 +1,5 @@
 # задача 8
+
 def century_message ():
     name = input("Введите свое имя: ")
     age = int(input("Введите свой возраст: "))
